@@ -4,7 +4,7 @@ a timed quiz on java script that takes time away every time you miss a question 
 https://github.com/christian6404/javaScriptTimedQuiz
 
 
-![Screenshot](./assets/jsquizscreenshot.png "Screenshot of livesite")
+![Screenshot](./assets/screenshot.png "Screenshot of livesite")
 
  # Contact
  Christian Smith
@@ -18,7 +18,8 @@ If you find any bugs or know of any ways to condense the code please contact me 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  
 # About
-This daily planner will
+This daily planner will save your data locally so when you refresh or revisit the website it will still have your planner showing
+The colors and date are broken but i intend on going back and fixing it after 
 
 # Sources 
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList
