@@ -19,6 +19,7 @@ $(function () {
     });
   }
 
+console.log(dayjs()) // doesn't work I tried for a while but cant get the logic to work properly
   var currentTime = dayjs().format('h');
   console.log(currentTime)
   var htmlTimeBlock = document.querySelectorAll('.time-block');
