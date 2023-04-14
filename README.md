@@ -97,3 +97,23 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList
+https://www.w3schools.com/jsref/jsref_foreach.asp  
+https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
+https://www.w3schools.com/jsref/met_storage_getitem.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+https://www.w3schools.com/jsref/prop_html_id.asp
